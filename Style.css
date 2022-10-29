@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("images/Banner.jpg");
+    background-repeat: no-repeat;
+    
+    
+}
+h1{
+    font-size: 50px;
+}
+.name1{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+   width: 100%;
+   
+   
+   
+   
+}
+.top{
+    
+    background-image: url("images/Banner.jpg");
+}
+.section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.dreem{
+    background-image: url("images/Banner.jpg");
+    background-position: right;
+}
